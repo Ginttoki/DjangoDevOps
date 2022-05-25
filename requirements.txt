@@ -43,7 +43,7 @@ post==1.0.2
 public==1.0.3
 py==1.5.2
 pycparser==2.18
-PyJWT==1.6.4
+PyJWT==2.4.0
 pylint==1.9.2
 pyOpenSSL==18.0.0
 pyparsing==2.2.0
